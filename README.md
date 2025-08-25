@@ -10,7 +10,7 @@ A **complete chess game implementation** in Java featuring a sophisticated GUI, 
 - Turn-based gameplay validation
 - Move history tracking
 
-🤖 **Intelligent AI Opponent**
+🤖 **AI Opponent**
 - Minimax algorithm with Alpha-Beta pruning
 - Configurable difficulty levels (search depth)
 - Strategic position evaluation
@@ -22,7 +22,7 @@ A **complete chess game implementation** in Java featuring a sophisticated GUI, 
 - Customizable piece representations
 - Responsive design with smooth interactions
 
-🏗️ **Advanced OOP Design**
+🏗️ **OOP Design**
 - Clean architecture with separation of concerns
 - Polymorphic piece behavior
 - Robust exception handling
